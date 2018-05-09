@@ -1,0 +1,607 @@
+<?php /*%%SmartyHeaderCode:14994471925a54e9f71a7704-78064950%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+$_valid = $_smarty_tpl->decodeProperties(array (
+  'file_dependency' => 
+  array (
+    '39d31a599d73c039735add7bd5dc7a2a3a72c0ba' => 
+    array (
+      0 => 'module:ps_categoryproducts/views/templates/hook/ps_categoryproducts.tpl',
+      1 => 1515324530,
+      2 => 'module',
+    ),
+    '4c160a9c91dd68240954746183a3fb36d7059e4d' => 
+    array (
+      0 => '/home/matesica/public_html/fastshopping.matesica.ro/themes/classic/templates/catalog/_partials/miniatures/product.tpl',
+      1 => 1515341316,
+      2 => 'file',
+    ),
+    '014b4569d99f14dbeea538b2ae675826f926db50' => 
+    array (
+      0 => '/home/matesica/public_html/fastshopping.matesica.ro/themes/classic/templates/catalog/_partials/variant-links.tpl',
+      1 => 1515324551,
+      2 => 'file',
+    ),
+  ),
+  'nocache_hash' => '14994471925a54e9f71a7704-78064950',
+  'version' => 'Smarty-3.1.19',
+  'unifunc' => 'content_5ac0b5ee307856_12420449',
+  'has_nocache_code' => false,
+  'cache_lifetime' => 31536000,
+),true); /*/%%SmartyHeaderCode%%*/?>
+<?php if ($_valid && !is_callable('content_5ac0b5ee307856_12420449')) {function content_5ac0b5ee307856_12420449($_smarty_tpl) {?><section class="featured-products clearfix mt-3">
+  <h2>
+          10 other products in the same category:
+      </h2>
+  <div class="products">
+                
+  <article class="product-miniature js-product-miniature" data-id-product="2" data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
+    <div class="thumbnail-container">
+      
+        <a href="http://fastshopping.matesica.ro/en/legume-si-fructe/2-portocale-spania-per-kg.html" class="thumbnail product-thumbnail">
+          <img
+            src = "http://fastshopping.matesica.ro/13-home_default/portocale-spania-per-kg.jpg"
+            alt = "Portocale Spania per kg"
+            data-full-size-image-url = "http://fastshopping.matesica.ro/13-large_default/portocale-spania-per-kg.jpg"
+          >
+        </a>
+      
+
+      <div class="product-description">
+        
+          <h1 class="h3 product-title" itemprop="name"><a href="http://fastshopping.matesica.ro/en/legume-si-fructe/2-portocale-spania-per-kg.html">Portocale Spania per kg Carrefour</a></h1>
+         
+
+        
+                      <div class="product-price-and-shipping">
+              
+              
+
+              <span class="sr-only">Price</span>
+              <span itemprop="price" class="price">RON5.94</span>
+
+              
+
+              
+            </div>
+                  
+
+        
+          
+        
+      </div>
+
+      
+        <ul class="product-flags">
+                  </ul>
+      
+
+      <div class="highlighted-informations no-variants hidden-sm-down">
+        
+          <a class="quick-view" href="#" data-link-action="quickview">
+            <i class="material-icons search">&#xE8B6;</i> Quick view
+          </a>
+        
+
+        
+                  
+      </div>
+
+    </div>
+  </article>
+
+
+                
+  <article class="product-miniature js-product-miniature" data-id-product="4" data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
+    <div class="thumbnail-container">
+      
+        <a href="http://fastshopping.matesica.ro/en/legume-si-fructe/4-avocado-per-kg.html" class="thumbnail product-thumbnail">
+          <img
+            src = "http://fastshopping.matesica.ro/11-home_default/avocado-per-kg.jpg"
+            alt = "Avocado per kg"
+            data-full-size-image-url = "http://fastshopping.matesica.ro/11-large_default/avocado-per-kg.jpg"
+          >
+        </a>
+      
+
+      <div class="product-description">
+        
+          <h1 class="h3 product-title" itemprop="name"><a href="http://fastshopping.matesica.ro/en/legume-si-fructe/4-avocado-per-kg.html">Avocado per kg Carrefour</a></h1>
+         
+
+        
+                      <div class="product-price-and-shipping">
+              
+              
+
+              <span class="sr-only">Price</span>
+              <span itemprop="price" class="price">RON4.50</span>
+
+              
+
+              
+            </div>
+                  
+
+        
+          
+        
+      </div>
+
+      
+        <ul class="product-flags">
+                  </ul>
+      
+
+      <div class="highlighted-informations no-variants hidden-sm-down">
+        
+          <a class="quick-view" href="#" data-link-action="quickview">
+            <i class="material-icons search">&#xE8B6;</i> Quick view
+          </a>
+        
+
+        
+                  
+      </div>
+
+    </div>
+  </article>
+
+
+                
+  <article class="product-miniature js-product-miniature" data-id-product="3" data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
+    <div class="thumbnail-container">
+      
+        <a href="http://fastshopping.matesica.ro/en/legume-si-fructe/3-portocale-per-kg.html" class="thumbnail product-thumbnail">
+          <img
+            src = "http://fastshopping.matesica.ro/12-home_default/portocale-per-kg.jpg"
+            alt = "Portocale per kg"
+            data-full-size-image-url = "http://fastshopping.matesica.ro/12-large_default/portocale-per-kg.jpg"
+          >
+        </a>
+      
+
+      <div class="product-description">
+        
+          <h1 class="h3 product-title" itemprop="name"><a href="http://fastshopping.matesica.ro/en/legume-si-fructe/3-portocale-per-kg.html">Portocale per kg Carrefour</a></h1>
+         
+
+        
+                      <div class="product-price-and-shipping">
+              
+              
+
+              <span class="sr-only">Price</span>
+              <span itemprop="price" class="price">RON5.99</span>
+
+              
+
+              
+            </div>
+                  
+
+        
+          
+        
+      </div>
+
+      
+        <ul class="product-flags">
+                  </ul>
+      
+
+      <div class="highlighted-informations no-variants hidden-sm-down">
+        
+          <a class="quick-view" href="#" data-link-action="quickview">
+            <i class="material-icons search">&#xE8B6;</i> Quick view
+          </a>
+        
+
+        
+                  
+      </div>
+
+    </div>
+  </article>
+
+
+                
+  <article class="product-miniature js-product-miniature" data-id-product="14" data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
+    <div class="thumbnail-container">
+      
+        <a href="http://fastshopping.matesica.ro/en/legume-si-fructe/14-clementine-extra-per-kg.html" class="thumbnail product-thumbnail">
+          <img
+            src = "http://fastshopping.matesica.ro/6-home_default/clementine-extra-per-kg.jpg"
+            alt = "Clementine extra per kg"
+            data-full-size-image-url = "http://fastshopping.matesica.ro/6-large_default/clementine-extra-per-kg.jpg"
+          >
+        </a>
+      
+
+      <div class="product-description">
+        
+          <h1 class="h3 product-title" itemprop="name"><a href="http://fastshopping.matesica.ro/en/legume-si-fructe/14-clementine-extra-per-kg.html">Clementine extra per kg Carrefour</a></h1>
+         
+
+        
+                      <div class="product-price-and-shipping">
+              
+              
+
+              <span class="sr-only">Price</span>
+              <span itemprop="price" class="price">RON5.99</span>
+
+              
+
+              
+            </div>
+                  
+
+        
+          
+        
+      </div>
+
+      
+        <ul class="product-flags">
+                  </ul>
+      
+
+      <div class="highlighted-informations no-variants hidden-sm-down">
+        
+          <a class="quick-view" href="#" data-link-action="quickview">
+            <i class="material-icons search">&#xE8B6;</i> Quick view
+          </a>
+        
+
+        
+                  
+      </div>
+
+    </div>
+  </article>
+
+
+                
+  <article class="product-miniature js-product-miniature" data-id-product="7" data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
+    <div class="thumbnail-container">
+      
+        <a href="http://fastshopping.matesica.ro/en/legume-si-fructe/7-rosii-per-kg.html" class="thumbnail product-thumbnail">
+          <img
+            src = "http://fastshopping.matesica.ro/8-home_default/rosii-per-kg.jpg"
+            alt = "Rosii per kg"
+            data-full-size-image-url = "http://fastshopping.matesica.ro/8-large_default/rosii-per-kg.jpg"
+          >
+        </a>
+      
+
+      <div class="product-description">
+        
+          <h1 class="h3 product-title" itemprop="name"><a href="http://fastshopping.matesica.ro/en/legume-si-fructe/7-rosii-per-kg.html">Rosii per kg Carrefour</a></h1>
+         
+
+        
+                      <div class="product-price-and-shipping">
+              
+              
+
+              <span class="sr-only">Price</span>
+              <span itemprop="price" class="price">RON4.25</span>
+
+              
+
+              
+            </div>
+                  
+
+        
+          
+        
+      </div>
+
+      
+        <ul class="product-flags">
+                  </ul>
+      
+
+      <div class="highlighted-informations no-variants hidden-sm-down">
+        
+          <a class="quick-view" href="#" data-link-action="quickview">
+            <i class="material-icons search">&#xE8B6;</i> Quick view
+          </a>
+        
+
+        
+                  
+      </div>
+
+    </div>
+  </article>
+
+
+                
+  <article class="product-miniature js-product-miniature" data-id-product="8" data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
+    <div class="thumbnail-container">
+      
+        <a href="http://fastshopping.matesica.ro/en/legume-si-fructe/8-rucola-caserola-125g.html" class="thumbnail product-thumbnail">
+          <img
+            src = "http://fastshopping.matesica.ro/7-home_default/rucola-caserola-125g.jpg"
+            alt = "Rucola Caserola 125g"
+            data-full-size-image-url = "http://fastshopping.matesica.ro/7-large_default/rucola-caserola-125g.jpg"
+          >
+        </a>
+      
+
+      <div class="product-description">
+        
+          <h1 class="h3 product-title" itemprop="name"><a href="http://fastshopping.matesica.ro/en/legume-si-fructe/8-rucola-caserola-125g.html">Rucola Caserola 125g Carrefour</a></h1>
+         
+
+        
+                      <div class="product-price-and-shipping">
+              
+              
+
+              <span class="sr-only">Price</span>
+              <span itemprop="price" class="price">RON2.75</span>
+
+              
+
+              
+            </div>
+                  
+
+        
+          
+        
+      </div>
+
+      
+        <ul class="product-flags">
+                  </ul>
+      
+
+      <div class="highlighted-informations no-variants hidden-sm-down">
+        
+          <a class="quick-view" href="#" data-link-action="quickview">
+            <i class="material-icons search">&#xE8B6;</i> Quick view
+          </a>
+        
+
+        
+                  
+      </div>
+
+    </div>
+  </article>
+
+
+                
+  <article class="product-miniature js-product-miniature" data-id-product="23" data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
+    <div class="thumbnail-container">
+      
+        <a href="http://fastshopping.matesica.ro/en/legume-si-fructe/23-pepene-vede-per-kg.html" class="thumbnail product-thumbnail">
+          <img
+            src = "http://fastshopping.matesica.ro/4-home_default/pepene-vede-per-kg.jpg"
+            alt = "Pepene vede per kg"
+            data-full-size-image-url = "http://fastshopping.matesica.ro/4-large_default/pepene-vede-per-kg.jpg"
+          >
+        </a>
+      
+
+      <div class="product-description">
+        
+          <h1 class="h3 product-title" itemprop="name"><a href="http://fastshopping.matesica.ro/en/legume-si-fructe/23-pepene-vede-per-kg.html">Pepene vede per kg Carrefour</a></h1>
+         
+
+        
+                      <div class="product-price-and-shipping">
+              
+              
+
+              <span class="sr-only">Price</span>
+              <span itemprop="price" class="price">RON6.99</span>
+
+              
+
+              
+            </div>
+                  
+
+        
+          
+        
+      </div>
+
+      
+        <ul class="product-flags">
+                  </ul>
+      
+
+      <div class="highlighted-informations no-variants hidden-sm-down">
+        
+          <a class="quick-view" href="#" data-link-action="quickview">
+            <i class="material-icons search">&#xE8B6;</i> Quick view
+          </a>
+        
+
+        
+                  
+      </div>
+
+    </div>
+  </article>
+
+
+                
+  <article class="product-miniature js-product-miniature" data-id-product="6" data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
+    <div class="thumbnail-container">
+      
+        <a href="http://fastshopping.matesica.ro/en/legume-si-fructe/6-ciuperci-caserola-1kg.html" class="thumbnail product-thumbnail">
+          <img
+            src = "http://fastshopping.matesica.ro/9-home_default/ciuperci-caserola-1kg.jpg"
+            alt = "Ciuperci Caserola 1kg"
+            data-full-size-image-url = "http://fastshopping.matesica.ro/9-large_default/ciuperci-caserola-1kg.jpg"
+          >
+        </a>
+      
+
+      <div class="product-description">
+        
+          <h1 class="h3 product-title" itemprop="name"><a href="http://fastshopping.matesica.ro/en/legume-si-fructe/6-ciuperci-caserola-1kg.html">Ciuperci Caserola 1kg Carrefour</a></h1>
+         
+
+        
+                      <div class="product-price-and-shipping">
+              
+              
+
+              <span class="sr-only">Price</span>
+              <span itemprop="price" class="price">RON5.99</span>
+
+              
+
+              
+            </div>
+                  
+
+        
+          
+        
+      </div>
+
+      
+        <ul class="product-flags">
+                  </ul>
+      
+
+      <div class="highlighted-informations no-variants hidden-sm-down">
+        
+          <a class="quick-view" href="#" data-link-action="quickview">
+            <i class="material-icons search">&#xE8B6;</i> Quick view
+          </a>
+        
+
+        
+                  
+      </div>
+
+    </div>
+  </article>
+
+
+                
+  <article class="product-miniature js-product-miniature" data-id-product="5" data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
+    <div class="thumbnail-container">
+      
+        <a href="http://fastshopping.matesica.ro/en/legume-si-fructe/5-cartofi-per-kg.html" class="thumbnail product-thumbnail">
+          <img
+            src = "http://fastshopping.matesica.ro/10-home_default/cartofi-per-kg.jpg"
+            alt = "Cartofi per kg"
+            data-full-size-image-url = "http://fastshopping.matesica.ro/10-large_default/cartofi-per-kg.jpg"
+          >
+        </a>
+      
+
+      <div class="product-description">
+        
+          <h1 class="h3 product-title" itemprop="name"><a href="http://fastshopping.matesica.ro/en/legume-si-fructe/5-cartofi-per-kg.html">Cartofi per kg Carrefour</a></h1>
+         
+
+        
+                      <div class="product-price-and-shipping">
+              
+              
+
+              <span class="sr-only">Price</span>
+              <span itemprop="price" class="price">RON2.55</span>
+
+              
+
+              
+            </div>
+                  
+
+        
+          
+        
+      </div>
+
+      
+        <ul class="product-flags">
+                  </ul>
+      
+
+      <div class="highlighted-informations no-variants hidden-sm-down">
+        
+          <a class="quick-view" href="#" data-link-action="quickview">
+            <i class="material-icons search">&#xE8B6;</i> Quick view
+          </a>
+        
+
+        
+                  
+      </div>
+
+    </div>
+  </article>
+
+
+                
+  <article class="product-miniature js-product-miniature" data-id-product="22" data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
+    <div class="thumbnail-container">
+      
+        <a href="http://fastshopping.matesica.ro/en/legume-si-fructe/22-cartofi-roii-per-kg.html" class="thumbnail product-thumbnail">
+          <img
+            src = "http://fastshopping.matesica.ro/5-home_default/cartofi-roii-per-kg.jpg"
+            alt = "Cartofi roșii per kg"
+            data-full-size-image-url = "http://fastshopping.matesica.ro/5-large_default/cartofi-roii-per-kg.jpg"
+          >
+        </a>
+      
+
+      <div class="product-description">
+        
+          <h1 class="h3 product-title" itemprop="name"><a href="http://fastshopping.matesica.ro/en/legume-si-fructe/22-cartofi-roii-per-kg.html">Cartofi roșii per kg Carrefour</a></h1>
+         
+
+        
+                      <div class="product-price-and-shipping">
+              
+              
+
+              <span class="sr-only">Price</span>
+              <span itemprop="price" class="price">RON1.49</span>
+
+              
+
+              
+            </div>
+                  
+
+        
+          
+        
+      </div>
+
+      
+        <ul class="product-flags">
+                  </ul>
+      
+
+      <div class="highlighted-informations no-variants hidden-sm-down">
+        
+          <a class="quick-view" href="#" data-link-action="quickview">
+            <i class="material-icons search">&#xE8B6;</i> Quick view
+          </a>
+        
+
+        
+                  
+      </div>
+
+    </div>
+  </article>
+
+
+        </div>
+</section>
+<?php }} ?>
